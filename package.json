@@ -1,0 +1,22 @@
+{
+  "name": "oneapp",
+  "version": "1.0.0",
+  "description": "basic social media app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "partha jyoti",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "swagger-ui-express": "^4.6.0",
+    "yamljs": "^0.3.0"
+  }
+}
